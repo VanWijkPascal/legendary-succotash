@@ -1,6 +1,6 @@
 1) add a repo with as name your profile name (Mine is "VanWijkPascal")
     make a readme file
     add the following code to the readme file:
-    <img src="https://raw.githubusercontent.com/VanWijkPascal/VanWijkPascal/output/snake.svg" alt="Snke broke :(" />
+    <img src="https://raw.githubusercontent.com/VanWijkPascal/VanWijkPascal/output/snake.svg" alt="Snek broke :(" />
 
     done :)
