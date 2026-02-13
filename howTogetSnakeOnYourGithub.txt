@@ -1,0 +1,6 @@
+1) add a repo with as name your profile name (Mine is "VanWijkPascal")
+    make a readme file
+    add the following code to the readme file, replacing REPO-NAME-HERE with the name of the repo (so, yours):
+    <img src="https://raw.githubusercontent.com/REPO-NAME-HERE/REPO-NAME-HERE/output/snake.svg" alt="Snek broke :(" />
+
+    done :)
